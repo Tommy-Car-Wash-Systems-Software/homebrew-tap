@@ -3,7 +3,7 @@
 ```bash
 brew tap tommy-car-wash-systems-software/tap
 brew trust tommy-car-wash-systems-software/tap
-brew install --cask --no-quarantine stretch-goal
+brew install --cask stretch-goal
 ```
 
 | Cask | What |
