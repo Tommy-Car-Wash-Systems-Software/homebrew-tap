@@ -1,7 +1,9 @@
 # Tommy Car Wash Systems Software — Homebrew tap
 
 ```bash
-brew install --cask --no-quarantine tommy-car-wash-systems-software/tap/stretch-goal
+brew tap tommy-car-wash-systems-software/tap
+brew trust tommy-car-wash-systems-software/tap
+brew install --cask --no-quarantine stretch-goal
 ```
 
 | Cask | What |
