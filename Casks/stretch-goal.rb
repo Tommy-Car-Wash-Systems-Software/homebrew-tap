@@ -1,6 +1,6 @@
 cask "stretch-goal" do
-  version "0.4.1"
-  sha256 "3b300c0653f76323b34858cabab475fd71200c7055393a3c3be02c2b3103952f"
+  version "0.5.0"
+  sha256 "fc39907bf62058bd738b147e725be6e6be20f075d3aa0acf0d3224136200d061"
 
   url "https://github.com/Tommy-Car-Wash-Systems-Software/stretch-goal/releases/download/v#{version}/StretchGoal-#{version}.zip"
   name "Stretch Goal"
