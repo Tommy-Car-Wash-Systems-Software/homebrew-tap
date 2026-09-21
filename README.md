@@ -8,4 +8,4 @@ brew install --cask stretch-goal
 
 | Cask | What |
 |---|---|
-| `stretch-goal` | Menu bar wellness nudges for the software team |
+| `stretch-goal` | Menu bar wellness app: sitting timer, guided breaks, water and steps, weekly team leaderboard synced through OneDrive |
